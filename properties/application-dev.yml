@@ -1,7 +1,7 @@
 # Config data exposed by config server
 
 new:
-  new-value: alianza lima
+  new-value: ajax
 
 info:
   foo1: bar2
